@@ -16,6 +16,7 @@
         <item>2 分钟</item>
         <item>5 分钟</item>
         <item>10 分钟</item>
+        <item>30 分钟</item>
     </string-array>
     <string-array name="dream_timeout_entries">
         <item>永不</item>
